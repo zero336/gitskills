@@ -1,0 +1,4 @@
+//.gitignore文件内容
+
+#window:
+*.cs
